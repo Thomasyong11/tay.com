@@ -7,7 +7,7 @@ export default function Experience() {
   const visible = showAll ? ExperienceData : ExperienceData.slice(0, 3);
 
   return (
-    <div className="mt-16">
+    <div className="mt-8">
       <ol className="relative border-s border-gray-200">
         {visible.map((item) => (
           //  ✅ parentheses → implicit return

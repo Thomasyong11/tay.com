@@ -21,6 +21,7 @@ const About = () => {
       <p className="text-gray-500">{`Outside of that, I’m into anime and sitcoms. Naruto and Vinland Saga are my go-tos, and The Big Bang Theory always cracks me up. 
         I genuinely believe that with some dedication and the right mindset, anyone can figure things out. 
         That’s been my approach so far, and it’s working pretty well.`}</p>
+      <div className="border-b w-full my-8"></div>
     </div>
   );
 };
@@ -65,7 +66,8 @@ const About = () => {
 
 const Projects = () => {
   return (
-    <div className="mt-16">
+    <div className="mt-8">
+      <div className="border-b w-full my-8"></div>
       <h1 className="font-medium text-gray-900 mb-4 text-lg">Projects</h1>
       <div className="grid grid-cols-2 md:grid-cols-3 w-full gap-x-10 gap-y-5">
         {ProjectsData.map((project) => {
@@ -100,6 +102,7 @@ const Projects = () => {
           );
         })}
       </div>
+      <div className="border-b w-full my-8"></div>
     </div>
   );
 };

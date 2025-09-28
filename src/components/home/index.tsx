@@ -15,10 +15,6 @@ const About = () => {
       <p className="text-gray-500">
         {`Hi, I’m Tay. I started in IT support and moved into software development, building web apps, automation, and cloud projects. I’m now focused on roles in software engineering, IT support, or cloud. I like solving problems and making technology work smoothly for people.`}
       </p>
-      <p className="text-gray-500">{`Long term, I’m aiming for a role in cloud infrastructure or DevOps. Somewhere I can build, automate, and actually make things work behind the scenes.`}</p>
-      <p className="text-gray-500">{`Outside of that, I’m into anime and sitcoms. Naruto and Vinland Saga are my go-tos, and The Big Bang Theory always cracks me up. 
-        I genuinely believe that with some dedication and the right mindset, anyone can figure things out. 
-        That’s been my approach so far, and it’s working pretty well.`}</p>
       <div className="border-b w-full my-8"></div>
     </div>
   );

@@ -40,7 +40,7 @@ const Navbar = () => {
           Tay Akum-Yong (Adjamkwalim)
         </h1>
         <p className="text-gray-500">
-          Software Engineer transitioning to Cloud
+          Turning ideas into code, and code into solutions
         </p>
         <div className="flex flex-row justify-between items-center mt-6">
           <div className="flex flex-row gap-x-3">

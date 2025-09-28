@@ -13,8 +13,7 @@ const About = () => {
   return (
     <div className="">
       <p className="text-gray-500">
-        {`Hey, I’m Tay. I started out in tech support, helping people solve everyday tech issues, and that got me into software. 
-        Now I build websites and web apps, and I’m currently studying Cloud Data Management at Conestoga College because I want to move into cloud engineering.`}
+        {`Hi, I’m Tay. I started in IT support and moved into software development, building web apps, automation, and cloud projects. I’m now focused on roles in software engineering, IT support, or cloud. I like solving problems and making technology work smoothly for people.`}
       </p>
       <p className="text-gray-500">{`Long term, I’m aiming for a role in cloud infrastructure or DevOps. Somewhere I can build, automate, and actually make things work behind the scenes.`}</p>
       <p className="text-gray-500">{`Outside of that, I’m into anime and sitcoms. Naruto and Vinland Saga are my go-tos, and The Big Bang Theory always cracks me up. 

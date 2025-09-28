@@ -24,7 +24,7 @@ export const ExperienceData = [
   },
   {
     id: "ITM",
-    role: "IT Mananger",
+    role: "IT Support & Management Information Systems officer",
     place: "Grains Board Ghana",
     year: "2021",
     dotColor: "bg-gray-200",

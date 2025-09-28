@@ -20,7 +20,7 @@ export const ProjectsData = [
     name: "Modi Wear",
     description:
       "Create your unique and exclusive shirt with our brand-new 3D customization tool.",
-    link: "#",
+    link: "https://modiwear.netlify.app/",
     image: "/images/projects/enchant.png",
   },
   {
@@ -36,7 +36,7 @@ export const ProjectsData = [
     id: 5,
     name: "Amazon",
     description: "Amazon UI clone.",
-    link: "https://amazon-2-0-rust.vercel.app/",
+    link: "https://yong-airbnb-clone-pied-three.vercel.app/",
     image:
       "https://www.shareicon.net/data/128x128/2015/08/31/93584_amazon_512x512.png",
     // image: "/images/projects/quote-vault.png",
